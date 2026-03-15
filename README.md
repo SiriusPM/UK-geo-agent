@@ -37,4 +37,4 @@ about UK local authority districts using PostGIS and Claude.
 7. Run: `streamlit run app.py`
 
 ## Built by
-Ridwan Shittu - Geospatial AI consultant
+Ridwan Shittu - Geospatial consultant
